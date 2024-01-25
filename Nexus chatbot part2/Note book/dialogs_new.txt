@@ -1,0 +1,12 @@
+Question,Answer
+What are the academic rules for attendance?	Most courses have a minimum attendance requirement, typically around 75-80%. Falling below this threshold may result in penalties or even course failure.
+How many credits are required to graduate?	The number of credits required for graduation varies by program. It's advisable to check the specific requirements for your major.
+Is there a minimum GPA requirement?	Yes, maintaining a minimum GPA is often a requirement for good academic standing. This requirement varies, but it's commonly around 2.0 or higher.
+What is the policy on late assignments?	Late assignment policies vary by professor and course. It's crucial to familiarize yourself with the specific policies outlined in the course syllabus.
+Can I drop a course after the deadline?	Dropping a course after the deadline is usually not allowed. Late withdrawals may be granted under exceptional circumstances and require approval from the academic advisor.
+Are there any prerequisites for specific courses?	Yes, many courses have prerequisites, and students are generally required to complete these before enrolling. Prerequisites are listed in the course catalog.
+How does the grading system work?	Grading systems vary but often include letter grades (A, B, C, D, F) with corresponding grade point values. It's essential to understand the grading scale used in each course.
+What is the policy on academic honesty?	Colleges typically have strict policies against plagiarism and cheating. Violations can result in severe consequences, including academic probation or expulsion.
+Are there opportunities for extra credit?	Extra credit policies differ by instructor. Some professors may offer extra credit assignments, while others may not. It's recommended to check with individual instructors.
+Can I retake a course to improve my grade?	Most colleges allow students to retake courses to improve grades. However, policies on how the new grade affects the GPA can vary, so it's essential to check with the academic advisor.
+What is the process for appealing a grade?	The process for appealing a grade varies by college. Generally, students must follow specific procedures outlined by the institution, and the appeal must be based on valid grounds.
