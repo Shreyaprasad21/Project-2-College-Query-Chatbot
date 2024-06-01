@@ -38,36 +38,26 @@ The College Query Chatbot is designed to assist students by providing automated 
    ```sh
    git clone https://github.com/Shreyaprasad21/College_Query_Chatbot.git
 
-2. Install dependencies:
-   ```sh
-   pip install -r requirements.txt
-
-3. Run the chatbot script:
+2. Run the chatbot script:
       ```sh
-   python college_query_chatbot.py
+   Chatbot_project2.ipynb
 
-4. Follow the prompts to interact with the chatbot. Type 'exit' to end the conversation.
+3. Follow the prompts to interact with the chatbot. Type 'exit' to end the conversation.
 
 ## File Structure
-- `college_query_chatbot.py`: Main script implementing the chatbot functionality.
-- `college_dialogs.txt`: Dataset containing pre-stored college-related questions and responses.
+- `chatbot_project2.ipynb`: Main script implementing the chatbot functionality.
+- `dialogs_new.txt`: Dataset containing pre-stored college-related questions and responses.
 - `nlp_utils.py`: Utility functions for text normalization.
-- `requirements.txt`: List of dependencies.
 - `README.md`: Instructions and information about the project.
 
 ## Deployment
 
-1. Ensure all dependencies are installed by running:
-  ```
-  pip install -r requirements.txt
-  ```
-
-2. Start the chatbot by running:
+1. Start the chatbot by running:
   ```
   python college_query_chatbot.py
   ```
 
-3. Interact with the chatbot in the console. Type 'exit' to end the conversation.
+2. Interact with the chatbot in the console. Type 'exit' to end the conversation.
 
 ## Notes
 - The project was developed using Python, with the main chatbot functionality implemented in `college_query_chatbot.py`.
