@@ -36,7 +36,7 @@ The College Query Chatbot is designed to assist students by providing automated 
 ## Usage
 1. Clone the repository:
    ```sh
-   git clone https://github.com/Shreyaprasad21/Project-3-AI-ML-Series-Multiple-Disease-Detection-system.git
+   git clone https://github.com/Shreyaprasad21/College_Query_Chatbot.git
 
 2. Install dependencies:
    ```sh
