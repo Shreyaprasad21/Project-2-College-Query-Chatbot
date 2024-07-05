@@ -54,13 +54,13 @@ The College Query Chatbot is designed to assist students by providing automated 
 
 1. Start the chatbot by running:
   ```
-  python college_query_chatbot.py
+  Chatbot_project2.ipynb
   ```
 
 2. Interact with the chatbot in the console. Type 'exit' to end the conversation.
 
 ## Notes
-- The project was developed using Python, with the main chatbot functionality implemented in `college_query_chatbot.py`.
+- The project was developed using Python, with the main chatbot functionality implemented in `Chatbot_project2.ipynb`.
 - `nlp_utils.py` contains helper functions for text normalization.
 - The dataset (`college_dialogs.txt`) is provided and contains sample questions and responses.
 - Sentiment analysis and word cloud visualization are integrated into the chatbot.
