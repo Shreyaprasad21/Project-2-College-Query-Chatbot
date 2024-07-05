@@ -36,7 +36,7 @@ The College Query Chatbot is designed to assist students by providing automated 
 ## Usage
 1. Clone the repository:
    ```sh
-   git clone https://github.com/Shreyaprasad21/College_Query_Chatbot.git
+   https://github.com/Shreyaprasad21/Project-2-College-Query-Chatbot.git
 
 2. Run the chatbot script:
       ```sh
